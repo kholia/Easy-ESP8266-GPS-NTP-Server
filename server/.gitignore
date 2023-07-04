@@ -1,0 +1,8 @@
+.depend
+*.o
+.*.swp
+test/test-DateTime
+test/test-GPS
+test/test-NTPClock
+test/test-ClockPID
+settings.h
